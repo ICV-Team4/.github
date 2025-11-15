@@ -41,7 +41,7 @@
       <h3>Uhm-Tendance</h3>
       <p><b>Face Recognition Attendance</b></p>
       <p>Automated attendance checking using PyTorch CNN models</p>
-      <a href="https://github.com/your-org/uhm-tendance">
+      <a href="https://github.com/ICV-Team4/Uhm-Tendance">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -50,7 +50,7 @@
       <h3>Pow-Uhm Point</h3>
       <p><b>Interactive Lecture System</b></p>
       <p>Hand gesture recognition for pointer and slide control</p>
-      <a href="https://github.com/your-org/pow-uhm-point">
+      <a href="https://github.com/ICV-Team4/pa-Uhm-point">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
@@ -59,7 +59,7 @@
       <h3>Pick Me, Uhm!</h3>
       <p><b>Presenter Selection System</b></p>
       <p>Random selection from crowd-detected students</p>
-      <a href="https://github.com/your-org/pick-me-uhm">
+      <a href="https://github.com/ICV-Team4/pick-me-uhm-server">
         <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
       </a>
     </td>
